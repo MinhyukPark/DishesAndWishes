@@ -288,6 +288,12 @@ p {}
     width: 100%;
 }
 
+#dish_today_text {
+    background: #fff;
+    margin: 0px 20vw;
+    color: #000;
+}
+
 #dish_tomorrow_text {
     color: #000000;
 }
